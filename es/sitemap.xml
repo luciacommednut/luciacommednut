@@ -2,196 +2,196 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/"
+                href="https://example.org/ca/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/"
+                href="https://example.org/"
                 />
   </url><url>
-    <loc>http://localhost:1313/legalnotice/</loc>
+    <loc>https://example.org/legalnotice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/legalnotice/"
+                href="https://example.org/ca/legalnotice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/legalnotice/"
+                href="https://example.org/legalnotice/"
                 />
   </url><url>
-    <loc>http://localhost:1313/mediccenter/mediccenter/</loc>
+    <loc>https://example.org/mediccenter/mediccenter/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/mediccenter/mediccenter/"
+                href="https://example.org/ca/mediccenter/mediccenter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/mediccenter/mediccenter/"
+                href="https://example.org/mediccenter/mediccenter/"
                 />
   </url><url>
-    <loc>http://localhost:1313/mediccenter/mediccenter4/</loc>
+    <loc>https://example.org/mediccenter/mediccenter4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/mediccenter/mediccenter4/"
+                href="https://example.org/ca/mediccenter/mediccenter4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/mediccenter/mediccenter4/"
+                href="https://example.org/mediccenter/mediccenter4/"
                 />
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://example.org/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/contact/"
+                href="https://example.org/ca/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/contact/"
+                href="https://example.org/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/mediccenter/mediccenter1/</loc>
+    <loc>https://example.org/mediccenter/mediccenter1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/mediccenter/mediccenter1/"
+                href="https://example.org/ca/mediccenter/mediccenter1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/mediccenter/mediccenter1/"
+                href="https://example.org/mediccenter/mediccenter1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/treatments/foodintolerances/</loc>
+    <loc>https://example.org/treatments/foodintolerances/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/treatments/foodintolerances/"
+                href="https://example.org/ca/treatments/foodintolerances/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/treatments/foodintolerances/"
+                href="https://example.org/treatments/foodintolerances/"
                 />
   </url><url>
-    <loc>http://localhost:1313/draluciacomes/</loc>
+    <loc>https://example.org/draluciacomes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/draluciacomes/"
+                href="https://example.org/ca/draluciacomes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/draluciacomes/"
+                href="https://example.org/draluciacomes/"
                 />
   </url><url>
-    <loc>http://localhost:1313/treatments/mesotherapy/</loc>
+    <loc>https://example.org/treatments/mesotherapy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/treatments/mesotherapy/"
+                href="https://example.org/ca/treatments/mesotherapy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/treatments/mesotherapy/"
+                href="https://example.org/treatments/mesotherapy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/treatments/clinicalnutrition/</loc>
+    <loc>https://example.org/treatments/clinicalnutrition/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/treatments/clinicalnutrition/"
+                href="https://example.org/ca/treatments/clinicalnutrition/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/treatments/clinicalnutrition/"
+                href="https://example.org/treatments/clinicalnutrition/"
                 />
   </url><url>
-    <loc>http://localhost:1313/treatments/medicalpeelings/</loc>
+    <loc>https://example.org/treatments/medicalpeelings/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/treatments/medicalpeelings/"
+                href="https://example.org/ca/treatments/medicalpeelings/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/treatments/medicalpeelings/"
+                href="https://example.org/treatments/medicalpeelings/"
                 />
   </url><url>
-    <loc>http://localhost:1313/mediccenter/mediccenter3/</loc>
+    <loc>https://example.org/mediccenter/mediccenter3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/mediccenter/mediccenter3/"
+                href="https://example.org/ca/mediccenter/mediccenter3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/mediccenter/mediccenter3/"
+                href="https://example.org/mediccenter/mediccenter3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/mediccenter/mediccenter2/</loc>
+    <loc>https://example.org/mediccenter/mediccenter2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/mediccenter/mediccenter2/"
+                href="https://example.org/ca/mediccenter/mediccenter2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/mediccenter/mediccenter2/"
+                href="https://example.org/mediccenter/mediccenter2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/treatments/overweightandobesity/</loc>
+    <loc>https://example.org/treatments/overweightandobesity/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/treatments/overweightandobesity/"
+                href="https://example.org/ca/treatments/overweightandobesity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/treatments/overweightandobesity/"
+                href="https://example.org/treatments/overweightandobesity/"
                 />
   </url><url>
-    <loc>http://localhost:1313/treatments/dermotonia/</loc>
+    <loc>https://example.org/treatments/dermotonia/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/treatments/dermotonia/"
+                href="https://example.org/ca/treatments/dermotonia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/treatments/dermotonia/"
+                href="https://example.org/treatments/dermotonia/"
                 />
   </url><url>
-    <loc>http://localhost:1313/treatments/treatments/</loc>
+    <loc>https://example.org/treatments/treatments/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/treatments/treatments/"
+                href="https://example.org/ca/treatments/treatments/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/treatments/treatments/"
+                href="https://example.org/treatments/treatments/"
                 />
   </url>
 </urlset>

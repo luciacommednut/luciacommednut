@@ -2,116 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inici on Dra. Lucia Comes</title>
-    <link>http://localhost:1313/ca/</link>
+    <link>https://example.org/ca/</link>
     <description>Recent content in Inici on Dra. Lucia Comes</description>
     <generator>Hugo</generator>
     <language>ca</language>
     <copyright>© 2025 Lucía, Xogori &amp; Janeta. All rights reserved.</copyright>
-    <atom:link href="http://localhost:1313/ca/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Avís Legal</title>
-      <link>http://localhost:1313/ca/legalnotice/</link>
+      <link>https://example.org/ca/legalnotice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/legalnotice/</guid>
+      <guid>https://example.org/ca/legalnotice/</guid>
       <description>&lt;p&gt;Avis legal&lt;/p&gt;</description>
     </item>
     <item>
       <title>Centre Mèdic</title>
-      <link>http://localhost:1313/ca/mediccenter/mediccenter/</link>
+      <link>https://example.org/ca/mediccenter/mediccenter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/mediccenter/mediccenter/</guid>
-      <description>&lt;p&gt;Al carrer &lt;strong&gt;August, 5 2n 2a&lt;/strong&gt;.&#xA;&lt;/br&gt;&#xA;Desitgem que els nostres pacients se sentin còmodes i trobin un entorn agradable.&#xA;&lt;/br&gt;&#xA;La nostra consulta està al centre de Tarragona, al carrer August, 5 2n 2a.&#xA;&lt;/br&gt;&#xA;Molt a prop del pàrquing de la Rambla Nova i del de la Plaça de la Font.&#xA;&lt;/br&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;gallery&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;gallery-item&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/ca/mediccenter/mediccenter1&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;Despacho&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;http://localhost:1313/images/tgna01web.gif&#34; alt=&#34;Despatx&#34;&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/ca/mediccenter/mediccenter2&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;Sala de Espera&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;http://localhost:1313/images/tgna02web.gif&#34; alt=&#34;Sala de Espera&#34;&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/ca/mediccenter/mediccenter3&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;Recepción&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;http://localhost:1313/images/tgna03web.gif&#34; alt=&#34;Recepción&#34;&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/ca/mediccenter/mediccenter4&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;Consulta&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;http://localhost:1313/images/tgna04web.gif&#34; alt=&#34;Consulta&#34;&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>https://example.org/ca/mediccenter/mediccenter/</guid>
+      <description>&lt;p&gt;Al carrer &lt;strong&gt;August, 5 2n 2a&lt;/strong&gt;.&#xA;&lt;/br&gt;&#xA;Desitgem que els nostres pacients se sentin còmodes i trobin un entorn agradable.&#xA;&lt;/br&gt;&#xA;La nostra consulta està al centre de Tarragona, al carrer August, 5 2n 2a.&#xA;&lt;/br&gt;&#xA;Molt a prop del pàrquing de la Rambla Nova i del de la Plaça de la Font.&#xA;&lt;/br&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;gallery&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;gallery-item&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://example.org/ca/mediccenter/mediccenter1&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;Despacho&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;https://example.org/images/tgna01web.gif&#34; alt=&#34;Despatx&#34;&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://example.org/ca/mediccenter/mediccenter2&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;Sala de Espera&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;https://example.org/images/tgna02web.gif&#34; alt=&#34;Sala de Espera&#34;&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://example.org/ca/mediccenter/mediccenter3&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;Recepción&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;https://example.org/images/tgna03web.gif&#34; alt=&#34;Recepción&#34;&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://example.org/ca/mediccenter/mediccenter4&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;Consulta&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;https://example.org/images/tgna04web.gif&#34; alt=&#34;Consulta&#34;&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Consulta</title>
-      <link>http://localhost:1313/ca/mediccenter/mediccenter4/</link>
+      <link>https://example.org/ca/mediccenter/mediccenter4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/mediccenter/mediccenter4/</guid>
-      <description>&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/tgna04web.gif&#34; alt=&#34;Consulta&#34; tittle=&#34;Consulta&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>https://example.org/ca/mediccenter/mediccenter4/</guid>
+      <description>&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://example.org/images/tgna04web.gif&#34; alt=&#34;Consulta&#34; tittle=&#34;Consulta&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Contacte</title>
-      <link>http://localhost:1313/ca/contact/</link>
+      <link>https://example.org/ca/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/contact/</guid>
+      <guid>https://example.org/ca/contact/</guid>
       <description>&lt;p&gt;Contacte&lt;/p&gt;</description>
     </item>
     <item>
       <title>Despatx</title>
-      <link>http://localhost:1313/ca/mediccenter/mediccenter1/</link>
+      <link>https://example.org/ca/mediccenter/mediccenter1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/mediccenter/mediccenter1/</guid>
-      <description>&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/tgna01web.gif&#34; alt=&#34;Despacho&#34; tittle=&#34;Despatx&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>https://example.org/ca/mediccenter/mediccenter1/</guid>
+      <description>&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://example.org/images/tgna01web.gif&#34; alt=&#34;Despacho&#34; tittle=&#34;Despatx&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Intoleràncies Alimentàries</title>
-      <link>http://localhost:1313/ca/treatments/foodintolerances/</link>
+      <link>https://example.org/ca/treatments/foodintolerances/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/treatments/foodintolerances/</guid>
-      <description>&lt;h1 id=&#34;lactosa-fructosa-sorbitol-gluten&#34;&gt;(lactosa, fructosa, sorbitol, gluten)&lt;/h1&gt;&#xA;&lt;p&gt;Millori la seva qualitat de vida si conviu amb alguna intolerància.&#xA;&lt;/br&gt;&#xA;Descobreixi que, possiblement, pot menjar molts més aliments dels que s’imagina.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/fruit.jpg&#34; alt=&#34;Fruita&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>https://example.org/ca/treatments/foodintolerances/</guid>
+      <description>&lt;h1 id=&#34;lactosa-fructosa-sorbitol-gluten&#34;&gt;(lactosa, fructosa, sorbitol, gluten)&lt;/h1&gt;&#xA;&lt;p&gt;Millori la seva qualitat de vida si conviu amb alguna intolerància.&#xA;&lt;/br&gt;&#xA;Descobreixi que, possiblement, pot menjar molts més aliments dels que s’imagina.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://example.org/images/fruit.jpg&#34; alt=&#34;Fruita&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Lucía Comes</title>
-      <link>http://localhost:1313/ca/draluciacomes/</link>
+      <link>https://example.org/ca/draluciacomes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/draluciacomes/</guid>
-      <description>&lt;p&gt;Col·legiada núm. 2.917 &lt;a href=&#34;https://comt.cat/&#34; target=&#34;_blank&#34;&gt;COMT (Col·legi Oficial de Metges de Tarragona)&lt;/a&gt;.&#xA;&lt;/br&gt;&#xA;Llicenciada en Medicina i Cirurgia per la &lt;a href=&#34;https://www.uv.es/uvweb/medicina-odontologia/ca/facultat-medicina-odontologia-1285849537235.html&#34; target=&#34;_blank&#34;&gt;Universitat de València&lt;/a&gt;.&#xA;&lt;/br&gt;&#xA;Màster Internacional i Interuniversitari en Nutrició i Dietètica Aplicada per la &lt;a href=&#34;https://www.fmcs.urv.cat/ca/&#34; target=&#34;_blank&#34;&gt;URV (Universitat Rovira i Virgili)&lt;/a&gt;.&#xA;&lt;/br&gt;&#xA;Curs d’&lt;strong&gt;Especialització Superior en Medicina Estètica&lt;/strong&gt; per la ME (Escola Espanyola de Medicina Estètica)&#xA;&lt;/br&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/luciacomes.jpg&#34; alt=&#34;Dra. Lucía Comes&#34; tittle=&#34;Dra. Lucía Comes&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>https://example.org/ca/draluciacomes/</guid>
+      <description>&lt;p&gt;Col·legiada núm. 2.917 &lt;a href=&#34;https://comt.cat/&#34; target=&#34;_blank&#34;&gt;COMT (Col·legi Oficial de Metges de Tarragona)&lt;/a&gt;.&#xA;&lt;/br&gt;&#xA;Llicenciada en Medicina i Cirurgia per la &lt;a href=&#34;https://www.uv.es/uvweb/medicina-odontologia/ca/facultat-medicina-odontologia-1285849537235.html&#34; target=&#34;_blank&#34;&gt;Universitat de València&lt;/a&gt;.&#xA;&lt;/br&gt;&#xA;Màster Internacional i Interuniversitari en Nutrició i Dietètica Aplicada per la &lt;a href=&#34;https://www.fmcs.urv.cat/ca/&#34; target=&#34;_blank&#34;&gt;URV (Universitat Rovira i Virgili)&lt;/a&gt;.&#xA;&lt;/br&gt;&#xA;Curs d’&lt;strong&gt;Especialització Superior en Medicina Estètica&lt;/strong&gt; per la ME (Escola Espanyola de Medicina Estètica)&#xA;&lt;/br&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://example.org/images/luciacomes.jpg&#34; alt=&#34;Dra. Lucía Comes&#34; tittle=&#34;Dra. Lucía Comes&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Mesoterapia</title>
-      <link>http://localhost:1313/ca/treatments/mesotherapy/</link>
+      <link>https://example.org/ca/treatments/mesotherapy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/treatments/mesotherapy/</guid>
-      <description>&lt;p&gt;El millor tractament de mesoteràpia amb el mínim efecte rebot.&#xA;&lt;/br&gt;&#xA;I sense contraindicacions ni interaccions amb altres tractaments.&#xA;&lt;/br&gt;&#xA;Gràcies a la nostra especialització amb productes homeopàtics, pot reduir la seva cel·lulitis o els seus dipòsits de greix localitzat.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/mesotherapy.jpg&#34; alt=&#34;Mesoterapia&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>https://example.org/ca/treatments/mesotherapy/</guid>
+      <description>&lt;p&gt;El millor tractament de mesoteràpia amb el mínim efecte rebot.&#xA;&lt;/br&gt;&#xA;I sense contraindicacions ni interaccions amb altres tractaments.&#xA;&lt;/br&gt;&#xA;Gràcies a la nostra especialització amb productes homeopàtics, pot reduir la seva cel·lulitis o els seus dipòsits de greix localitzat.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://example.org/images/mesotherapy.jpg&#34; alt=&#34;Mesoterapia&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Nutrició Clínica</title>
-      <link>http://localhost:1313/ca/treatments/clinicalnutrition/</link>
+      <link>https://example.org/ca/treatments/clinicalnutrition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/treatments/clinicalnutrition/</guid>
-      <description>&lt;p&gt;Qualsevol pacient amb problemes d&amp;rsquo;hiperglucèmia, hipercolesterolèmia, hiperuricèmia o hipertensió pot tenir dubtes i problemes sobre què menjar i com combinar els diferents aliments.&#xA;&lt;/br&gt;&#xA;Quina dieta seguir&amp;hellip;   No es preocupi més.&#xA;&lt;/br&gt;&#xA;Assisteixi a la nostra clínica i obtingui la millor informació i assessorament dietètic per millorar la seva salut.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/fruitweigth.jpg&#34; alt=&#34;Nutricio&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>https://example.org/ca/treatments/clinicalnutrition/</guid>
+      <description>&lt;p&gt;Qualsevol pacient amb problemes d&amp;rsquo;hiperglucèmia, hipercolesterolèmia, hiperuricèmia o hipertensió pot tenir dubtes i problemes sobre què menjar i com combinar els diferents aliments.&#xA;&lt;/br&gt;&#xA;Quina dieta seguir&amp;hellip;   No es preocupi més.&#xA;&lt;/br&gt;&#xA;Assisteixi a la nostra clínica i obtingui la millor informació i assessorament dietètic per millorar la seva salut.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://example.org/images/fruitweigth.jpg&#34; alt=&#34;Nutricio&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Peelings Mèdics</title>
-      <link>http://localhost:1313/ca/treatments/medicalpeelings/</link>
+      <link>https://example.org/ca/treatments/medicalpeelings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/treatments/medicalpeelings/</guid>
-      <description>&lt;p&gt;Tractament &lt;strong&gt;mèdic&lt;/strong&gt; per millorar o solucionar els seus problemes cutanis.&#xA;&lt;/br&gt;&#xA;Arrugues, taques, cicatrius i marques d&amp;rsquo;acne poden millorar notablement amb un &lt;strong&gt;tractament personalitzat&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/medicalpeeling.jpg&#34; alt=&#34;Peeling Mèdic&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>https://example.org/ca/treatments/medicalpeelings/</guid>
+      <description>&lt;p&gt;Tractament &lt;strong&gt;mèdic&lt;/strong&gt; per millorar o solucionar els seus problemes cutanis.&#xA;&lt;/br&gt;&#xA;Arrugues, taques, cicatrius i marques d&amp;rsquo;acne poden millorar notablement amb un &lt;strong&gt;tractament personalitzat&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://example.org/images/medicalpeeling.jpg&#34; alt=&#34;Peeling Mèdic&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Recepció</title>
-      <link>http://localhost:1313/ca/mediccenter/mediccenter3/</link>
+      <link>https://example.org/ca/mediccenter/mediccenter3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/mediccenter/mediccenter3/</guid>
-      <description>&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/tgna03web.gif&#34; alt=&#34;Recepció&#34; tittle=&#34;Recepció&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>https://example.org/ca/mediccenter/mediccenter3/</guid>
+      <description>&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://example.org/images/tgna03web.gif&#34; alt=&#34;Recepció&#34; tittle=&#34;Recepció&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Sala de Espera</title>
-      <link>http://localhost:1313/ca/mediccenter/mediccenter2/</link>
+      <link>https://example.org/ca/mediccenter/mediccenter2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/mediccenter/mediccenter2/</guid>
-      <description>&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/tgna02web.gif&#34; alt=&#34;Sala de Espera&#34; tittle=&#34;Sala de Espera&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>https://example.org/ca/mediccenter/mediccenter2/</guid>
+      <description>&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://example.org/images/tgna02web.gif&#34; alt=&#34;Sala de Espera&#34; tittle=&#34;Sala de Espera&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Sobrepès i Obesitat</title>
-      <link>http://localhost:1313/ca/treatments/overweightandobesity/</link>
+      <link>https://example.org/ca/treatments/overweightandobesity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/treatments/overweightandobesity/</guid>
-      <description>&lt;p&gt;S&amp;rsquo;ha acabat passar gana i veure la bàscula immòbil.&#xA;&lt;/br&gt;&#xA;Les millors dietes equilibrades i el millor assessorament per perdre pes i mantenir-lo a llarg termini.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/windiet.jpg&#34; alt=&#34;Dieta Guanyadora&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>https://example.org/ca/treatments/overweightandobesity/</guid>
+      <description>&lt;p&gt;S&amp;rsquo;ha acabat passar gana i veure la bàscula immòbil.&#xA;&lt;/br&gt;&#xA;Les millors dietes equilibrades i el millor assessorament per perdre pes i mantenir-lo a llarg termini.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://example.org/images/windiet.jpg&#34; alt=&#34;Dieta Guanyadora&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Teràpia Subdèrmica Dermotonia</title>
-      <link>http://localhost:1313/ca/treatments/dermotonia/</link>
+      <link>https://example.org/ca/treatments/dermotonia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/treatments/dermotonia/</guid>
-      <description>&lt;p&gt;Tractament indolor realitzat per professionals qualificats i amb supervisió mèdica. Ideal per modelar el teu cos i aconseguir una silueta fantàstica. També recomanat en tractaments postpart.&lt;/p&gt;&#xA;&lt;p&gt;Sense contraindicacions ni efectes secundaris i sense efecte rebot.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/dermotonia.gif&#34; alt=&#34;Dermotonia&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>https://example.org/ca/treatments/dermotonia/</guid>
+      <description>&lt;p&gt;Tractament indolor realitzat per professionals qualificats i amb supervisió mèdica. Ideal per modelar el teu cos i aconseguir una silueta fantàstica. També recomanat en tractaments postpart.&lt;/p&gt;&#xA;&lt;p&gt;Sense contraindicacions ni efectes secundaris i sense efecte rebot.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://example.org/images/dermotonia.gif&#34; alt=&#34;Dermotonia&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Tractaments</title>
-      <link>http://localhost:1313/ca/treatments/treatments/</link>
+      <link>https://example.org/ca/treatments/treatments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/treatments/treatments/</guid>
-      <description>&lt;p&gt;Aquests són alguns dels nostres tractaments disponibles.&lt;/p&gt;&#xA;&lt;section&gt;&#xD;&#xA;    &lt;ul class=&#34;links&#34;&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;http://localhost:1313/ca/treatments/overweightandobesity/&#34;&gt;Sobrepès i l’Obesitat&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;http://localhost:1313/ca/treatments/clinicalnutrition/&#34;&gt;Nutrició Clínica&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;http://localhost:1313/ca/treatments/foodintolerances/&#34;&gt;Intoleràncies Alimentàries&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;http://localhost:1313/ca/treatments/dermotonia/&#34;&gt;Terapia Subdérmica Dermotonía&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;http://localhost:1313/ca/treatments/mesotherapy&#34;&gt;Mesoteràpia&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;http://localhost:1313/ca/treatments/medicalpeelings&#34;&gt;Peelings Mèdics&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;&lt;/section&gt;&#xD;&#xA;Consulta&#39;ns perquè puguem aconsellar-te el millor tractament per al teu cas.</description>
+      <guid>https://example.org/ca/treatments/treatments/</guid>
+      <description>&lt;p&gt;Aquests són alguns dels nostres tractaments disponibles.&lt;/p&gt;&#xA;&lt;section&gt;&#xD;&#xA;    &lt;ul class=&#34;links&#34;&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://example.org/ca/treatments/overweightandobesity/&#34;&gt;Sobrepès i l’Obesitat&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://example.org/ca/treatments/clinicalnutrition/&#34;&gt;Nutrició Clínica&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://example.org/ca/treatments/foodintolerances/&#34;&gt;Intoleràncies Alimentàries&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://example.org/ca/treatments/dermotonia/&#34;&gt;Terapia Subdérmica Dermotonía&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://example.org/ca/treatments/mesotherapy&#34;&gt;Mesoteràpia&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://example.org/ca/treatments/medicalpeelings&#34;&gt;Peelings Mèdics&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;&lt;/section&gt;&#xD;&#xA;Consulta&#39;ns perquè puguem aconsellar-te el millor tractament per al teu cas.</description>
     </item>
   </channel>
 </rss>
