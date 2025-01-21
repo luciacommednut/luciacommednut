@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "C:/zXogori/luciacommednut/hugo21",
+	"sourceRoot": "C:/zXogori/Xogori-LuciaComMedNut/www-font",
 	"sources": [
 		"themes/hugo-arcana/assets/sass/main.scss",
 		"assets/sass/libs/_vars.scss",
