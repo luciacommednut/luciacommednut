@@ -14,16 +14,16 @@
                 href="https://luciacommednut.github.io/ca/"
                 />
   </url><url>
-    <loc>https://luciacommednut.github.io/ca/legalnotice/</loc>
+    <loc>https://luciacommednut.github.io/ca/legalnotice/legalnotice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://luciacommednut.github.io/legalnotice/"
+                href="https://luciacommednut.github.io/legalnotice/legalnotice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://luciacommednut.github.io/ca/legalnotice/"
+                href="https://luciacommednut.github.io/ca/legalnotice/legalnotice/"
                 />
   </url><url>
     <loc>https://luciacommednut.github.io/ca/mediccenter/mediccenter/</loc>
@@ -132,6 +132,30 @@
                 rel="alternate"
                 hreflang="ca"
                 href="https://luciacommednut.github.io/ca/treatments/medicalpeelings/"
+                />
+  </url><url>
+    <loc>https://luciacommednut.github.io/ca/legalnotice/cookiespolicy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://luciacommednut.github.io/legalnotice/cookiespolicy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://luciacommednut.github.io/ca/legalnotice/cookiespolicy/"
+                />
+  </url><url>
+    <loc>https://luciacommednut.github.io/ca/legalnotice/privacypolicy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://luciacommednut.github.io/legalnotice/privacypolicy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://luciacommednut.github.io/ca/legalnotice/privacypolicy/"
                 />
   </url><url>
     <loc>https://luciacommednut.github.io/ca/mediccenter/mediccenter3/</loc>
