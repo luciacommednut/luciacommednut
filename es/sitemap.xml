@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://luciacommednut.github.io/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
@@ -12,6 +13,99 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://luciacommednut.github.io/"
+                />
+  </url><url>
+    <loc>https://luciacommednut.github.io/posts/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://luciacommednut.github.io/ca/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://luciacommednut.github.io/posts/"
+                />
+  </url><url>
+    <loc>https://luciacommednut.github.io/tags/obesidad/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luciacommednut.github.io/posts/second/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://luciacommednut.github.io/ca/posts/second/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://luciacommednut.github.io/posts/second/"
+                />
+  </url><url>
+    <loc>https://luciacommednut.github.io/tags/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://luciacommednut.github.io/ca/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://luciacommednut.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://luciacommednut.github.io/tags/tractamiento/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luciacommednut.github.io/posts/first/</loc>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://luciacommednut.github.io/ca/posts/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://luciacommednut.github.io/posts/first/"
+                />
+  </url><url>
+    <loc>https://luciacommednut.github.io/tags/example/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luciacommednut.github.io/tags/lorem-ipsum/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luciacommednut.github.io/posts/fourth/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luciacommednut.github.io/tags/duis-neque/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://luciacommednut.github.io/ca/tags/duis-neque/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://luciacommednut.github.io/tags/duis-neque/"
+                />
+  </url><url>
+    <loc>https://luciacommednut.github.io/posts/third/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://luciacommednut.github.io/ca/posts/third/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://luciacommednut.github.io/posts/third/"
                 />
   </url><url>
     <loc>https://luciacommednut.github.io/draluciacomes/legalnotice/legalnotice/</loc>
@@ -72,6 +166,18 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://luciacommednut.github.io/contact/"
+                />
+  </url><url>
+    <loc>https://luciacommednut.github.io/treatments/corposhape/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://luciacommednut.github.io/ca/treatments/corposhape/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://luciacommednut.github.io/treatments/corposhape/"
                 />
   </url><url>
     <loc>https://luciacommednut.github.io/draluciacomes/mediccenter/mediccenter1/</loc>
@@ -216,18 +322,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://luciacommednut.github.io/treatments/overweightandobesity/"
-                />
-  </url><url>
-    <loc>https://luciacommednut.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="https://luciacommednut.github.io/ca/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://luciacommednut.github.io/tags/"
                 />
   </url><url>
     <loc>https://luciacommednut.github.io/treatments/dermotonia/</loc>

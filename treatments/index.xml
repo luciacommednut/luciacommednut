@@ -9,6 +9,13 @@
     <copyright>© {currentYear} Lucía, Janeta &amp; Xogori. All rights reserved.</copyright>
     <atom:link href="https://luciacommednut.github.io/treatments/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Corposhape</title>
+      <link>https://luciacommednut.github.io/treatments/corposhape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://luciacommednut.github.io/treatments/corposhape/</guid>
+      <description>&lt;p&gt;Corposhape es un aparato de remodelación corporal profesional que combina diversas tecnologías para tratar la celulitis, la flacidez y la grasa localizada. Utiliza técnicas como la cavitación, la radiofrecuencia y la vacumterapia para lograr resultados visibles desde la primera sesión.&lt;/p&gt;&#xA;&lt;p&gt;Los beneficios de Corposhape incluyen:&#xA;&lt;BR&gt;&#xA;Remodelación y reafirmación corporal: ayuda a alisar y reafirmar la silueta corporal.&#xA;&lt;BR&gt;&#xA;Drenaje linfático: realiza un drenaje linfático que mejora la circulación y reduce la retención de líquidos.&#xA;&lt;BR&gt;&#xA;Estimulación de colágeno y elastina: estimula la síntesis de colágeno y elastina para aportar firmeza a la piel.&#xA;&lt;BR&gt;&#xA;Reducción de grasa localizada: licúa y elimina la grasa en zonas localizadas de manera eficaz.&#xA;&lt;BR&gt;&#xA;Mejora de la celulitis: reduce y elimina el aspecto de piel de naranja y la celulitis.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Intolerancias Alimentarias</title>
       <link>https://luciacommednut.github.io/treatments/foodintolerances/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -55,7 +62,7 @@
       <link>https://luciacommednut.github.io/treatments/treatments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://luciacommednut.github.io/treatments/treatments/</guid>
-      <description>&lt;p&gt;Estos son algunos de nuestros tratamientos disponibles.&lt;/p&gt;&#xA;&lt;section&gt;&#xD;&#xA;    &lt;ul class=&#34;links&#34;&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://luciacommednut.github.io/treatments/overweightandobesity/&#34;&gt;Sobrepeso Y Obesidad&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://luciacommednut.github.io/treatments/clinicalnutrition/&#34;&gt;Nutrición Clínica&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://luciacommednut.github.io/treatments/foodintolerances/&#34;&gt;Intolerancias Alimentarias&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://luciacommednut.github.io/treatments/dermotonia/&#34;&gt;Terapia Subdérmica Dermotonía&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://luciacommednut.github.io/treatments/mesotherapy/&#34;&gt;Mesoterapia&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://luciacommednut.github.io/treatments/medicalpeelings/&#34;&gt;Peelings Médicos&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;&lt;/section&gt;&#xD;&#xA;&lt;p&gt;Consúltanos para que podamos aconsejarte el mejor tratamiento para tu caso.&lt;/p&gt;</description>
+      <description>&lt;section&gt;&#xD;&#xA;    &lt;ul class=&#34;links&#34;&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://luciacommednut.github.io/treatments/overweightandobesity/&#34;&gt;Sobrepeso Y Obesidad&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://luciacommednut.github.io/treatments/clinicalnutrition/&#34;&gt;Nutrición Clínica&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://luciacommednut.github.io/treatments/foodintolerances/&#34;&gt;Intolerancias Alimentarias&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://luciacommednut.github.io/treatments/dermotonia/&#34;&gt;Terapia Subdérmica Dermotonía&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://luciacommednut.github.io/treatments/mesotherapy/&#34;&gt;Mesoterapia&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://luciacommednut.github.io/treatments/medicalpeelings/&#34;&gt;Peelings Médicos&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;a href=&#34;https://luciacommednut.github.io/treatments/corposhape&#34;&gt;Corposhape&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;&lt;/section&gt;&#xD;&#xA;&lt;p&gt;Consúltanos para que podamos aconsejarte el mejor tratamiento para tu caso.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
